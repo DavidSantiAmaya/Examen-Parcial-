@@ -1,4 +1,12 @@
-.navbar{
+html{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+}
+header{
+    
+}
+footer{
     display: flex;
-    position: fixed;
+    justify-content: center;
+    align-items: center;
 }
