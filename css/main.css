@@ -2,3 +2,10 @@
     display: flex;
     position: fixed;
 }
+
+
+.card{
+    display: grid;
+    place-items: center
+
+}
